@@ -1,5 +1,8 @@
 # Turbin3 Prerequisite Course Program
 
+ps: more trust issues regarding PDFs 
+
+
 This repository contains a Rust implementation to interact with the Turbin3 Prerequisite Course Program deployed on the Solana Devnet. This project consumes the program's IDL (Interface Definition Language) to invoke the `complete` function, proving successful completion of the Turbin3 pre-requisite coursework.
 
 ---
